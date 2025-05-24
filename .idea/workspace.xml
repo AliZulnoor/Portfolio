@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dcc364a-2b5f-4174-94ca-8e21a6ba11b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/models/laptop.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/canvas/LaptopModel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-CpGzeuVK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!AliZulnoor!Portfolio.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!AliZulnoor!Portfolio.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748092982258</updated>
-      <workItem from="1748092983351" duration="2178000" />
+      <workItem from="1748092983351" duration="2495000" />
     </task>
     <servers />
   </component>
