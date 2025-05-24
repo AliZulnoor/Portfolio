@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import React from 'react';
 
 const skills = ["Image Transformation", "AI Styling", "3D Web Design", "React", "Tailwind CSS", "Three.js"];
 
